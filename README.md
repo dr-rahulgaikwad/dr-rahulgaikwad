@@ -30,49 +30,55 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="35" /> About Me
 
-<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); padding: 20px; border-radius: 10px; border: 2px solid #00FF41;">
-
-**<span style="color: #00FF41;">Transformational Technology Leader</span>** with **<span style="color: #9D00FF;">15+ years</span>** driving innovation across **Cloud, DevOps, AI/ML, and Generative AI**
+```diff
++ Transformational Technology Leader with 15+ years driving innovation
++ Cloud | DevOps | AI/ML | Generative AI
+```
 
 🎓 **PhD in Artificial Intelligence for IT Operations (AIOps)** | Savitribai Phule Pune University  
 📚 **MBA** (Project Management) | **MCA** (Computer Applications)  
 🏅 **40+ Technical Certifications**: 12x AWS | 3x HashiCorp | Confluent Kafka | Stanford ML
 
-💼 **Current Role:** Staff Resident Solutions Architect @ **<span style="color: #9D00FF;">HashiCorp</span>**  
+💼 **Current Role:** Staff Resident Solutions Architect @ **HashiCorp**  
 🎯 Partnering with enterprise CxOs across APAC to accelerate cloud transformation using HashiCorp's product suite and Cloud Operating Model.
-
-</div>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> Awards & Recognition
 
-<table style="background-color: #000000; border: 2px solid #00FF41;">
+<table>
 <tr>
-<td width="50%" valign="top" style="background-color: #000000; color: #FFFFFF; padding: 15px;">
+<td width="50%" valign="top">
 
-### <span style="color: #00FF41;">🥇 2024-2026 Achievements</span>
-- 🏅 **2026** - <span style="color: #FFD700;">AWS Golden Jacket Winner</span>
-- 🌟 **2025** - Top Icons of India
-- 👔 **2025** - Man of Excellence (AIBCF)
-- 🎖️ **2024 & 2025** - <span style="color: #9D00FF;">HashiCorp Ambassador</span>
-- ☁️ **AWS Ambassador** - Community Leader
-- 🏗️ **AWS Community Builder** - Serverless & Containers
-- 🏆 **2024** - Indian Achievers Award (IAF)
-- 📚 **2024** - Best PhD Thesis (Prestige Award)
-- ✍️ **Author of the Month** - APG, AWS
+### 🥇 2024-2026 Achievements
+```yaml
+2026: AWS Golden Jacket Winner 🏅
+2025: Top Icons of India 🌟
+2025: Man of Excellence (AIBCF) 👔
+2024-2025: HashiCorp Ambassador 🎖️
+AWS: Ambassador & Community Builder ☁️
+2024: Indian Achievers Award (IAF) 🏆
+2024: Best PhD Thesis (Prestige) 📚
+AWS: Author of the Month ✍️
+```
 
 </td>
-<td width="50%" valign="top" style="background-color: #000000; color: #FFFFFF; padding: 15px;">
+<td width="50%" valign="top">
 
-### <span style="color: #9D00FF;">🎓 2019-2023 Recognition</span>
-- 🔬 **2023** - Research Scholar of the Year (Global Asia Education)
-- 🏆 **2022** - Young Researcher Award (InSc)
-- ⭐ **2019** - Best Scylla User Award (Scylla Summit)
+### 🎓 2019-2023 Recognition
+```yaml
+2023: Research Scholar of the Year 🔬
+2022: Young Researcher Award 🏆
+2019: Best Scylla User Award ⭐
+```
 
-### <span style="color: #00D9FF;">📖 Research Contributions</span>
-- **8 Published Research Papers**
-- **2 Patents Filed** (IT Alert Classification & Event Log Mining)
+### 📖 Research Impact
+```yaml
+Published Papers: 8
+Patents Filed: 2
+Focus: IT Alert Classification
+       Event Log Mining
+```
 
 </td>
 </tr>
@@ -82,18 +88,18 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" /> Impact Metrics
 
-<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px; border: 2px solid #9D00FF;">
+<div align="center">
 
-| <span style="color: #00FF41;">Metric</span> | <span style="color: #9D00FF;">Achievement</span> | <span style="color: #00D9FF;">Details</span> |
+| Metric | Achievement | Details |
 |:------:|:-----------:|:--------|
-| 🏢 **Organizations** | **<span style="color: #00FF41;">50+</span>** | Enterprise cloud transformations delivered |
-| 👥 **Developers** | **<span style="color: #00FF41;">1000+</span>** | Professionals mentored & trained |
-| 🎤 **Speaking** | **<span style="color: #00FF41;">30+</span>** | Global conference sessions (4.7/5 CSAT) |
-| 📝 **Content** | **<span style="color: #00FF41;">100K+</span>** | Total blog reads across platforms |
-| 💻 **Open Source** | **<span style="color: #00FF41;">270+</span>** | GitHub contributions (140 stars, 40 forks) |
-| 🎓 **Certifications** | **<span style="color: #00FF41;">40+</span>** | Technical certifications earned |
-| 📖 **Publications** | **<span style="color: #00FF41;">8+15</span>** | Research papers + code samples |
-| 🎥 **Videos** | **<span style="color: #00FF41;">10K+</span>** | YouTube views (24+ videos) |
+| 🏢 **Organizations** | **50+** | Enterprise cloud transformations delivered |
+| 👥 **Developers** | **1000+** | Professionals mentored & trained |
+| 🎤 **Speaking** | **30+** | Global conference sessions (4.7/5 CSAT) |
+| 📝 **Content** | **100K+** | Total blog reads across platforms |
+| 💻 **Open Source** | **270+** | GitHub contributions (140 stars, 40 forks) |
+| 🎓 **Certifications** | **40+** | Technical certifications earned |
+| 📖 **Publications** | **8+15** | Research papers + code samples |
+| 🎥 **Videos** | **10K+** | YouTube views (24+ videos) |
 
 </div>
 
@@ -103,108 +109,153 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> AI/ML & AIOps Engineering
 
-<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); padding: 15px; border-left: 4px solid #00FF41; margin: 10px 0;">
+```python
+# Building intelligent, self-healing infrastructure systems
+class AIOpsExpertise:
+    def __init__(self):
+        self.achievements = {
+            "mttr_reduction": "90%",
+            "incidents_prevented": "1000+",
+            "research_papers": 8,
+            "patents": 2,
+            "resilience_improvement": "80%"
+        }
+    
+    def capabilities(self):
+        return [
+            "🧠 Self-Healing Platforms - Automated anomaly detection & remediation",
+            "🤖 Generative AI Solutions - Agentic AI for incident response",
+            "📊 Predictive Analytics - ML-driven root cause analysis",
+            "🔬 Research Impact - IT system alert classification",
+            "🎯 MLOps Excellence - TensorFlow, PyTorch, Kubernetes"
+        ]
+```
 
-**Building intelligent, self-healing infrastructure systems**
-
-- 🧠 **Self-Healing Platforms**: Achieved **<span style="color: #00FF41;">90% MTTR reduction</span>** through automated anomaly detection and remediation
-- 🤖 **Generative AI Solutions**: Architected Agentic AI systems for intelligent incident response and predictive maintenance
-- 📊 **Predictive Analytics**: Prevented **<span style="color: #00FF41;">1000+ production incidents</span>** using ML-driven root cause analysis
-- 🔬 **Research Impact**: **8 published papers**, **2 patents** in IT system alert classification
-- 🎯 **MLOps Excellence**: End-to-end ML pipelines with TensorFlow, PyTorch, Kubernetes
-
-**<span style="color: #9D00FF;">Measurable Results:</span>** Reduced critical outages from 9 to 3 workloads | 80% architecture resilience improvement | 24/7 autonomous operations
-
-</div>
+**Measurable Results:** Reduced critical outages from 9 to 3 workloads | 80% architecture resilience | 24/7 autonomous operations
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="30" /> Multi-Cloud Architecture & Infrastructure
 
-<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); padding: 15px; border-left: 4px solid #9D00FF; margin: 10px 0;">
+```go
+// Designing scalable cloud-native solutions across AWS and GCP
+type CloudArchitecture struct {
+    Migrations      string  // "50+ successful transformations"
+    Uptime          string  // "99.99%"
+    CostSavings     string  // "30-40%"
+    Provisioning    string  // "60% faster"
+    Deployments     int     // 500+
+}
 
-**Designing scalable cloud-native solutions across AWS and GCP**
+func (c *CloudArchitecture) Impact() []string {
+    return []string{
+        "🏗️ Enterprise Migrations - Zero downtime, 99.99% uptime",
+        "💰 Cost Optimization - 30-40% savings through FinOps",
+        "🔧 Infrastructure as Code - Production-ready Terraform modules",
+        "🐳 Kubernetes at Scale - 500+ deployments with security hardening",
+        "🌐 Multi-Cloud Strategy - HashiCorp Tao of Workflows",
+    }
+}
+```
 
-- 🏗️ **Enterprise Migrations**: **<span style="color: #00FF41;">50+ successful transformations</span>** with **zero downtime** and **99.99% uptime**
-- 💰 **Cost Optimization**: Delivered **<span style="color: #00FF41;">30-40% cost savings</span>** through FinOps practices and efficient resource utilization
-- 🔧 **Infrastructure as Code**: Production-ready Terraform modules reducing provisioning time by **<span style="color: #00FF41;">60%</span>**
-- 🐳 **Kubernetes at Scale**: **<span style="color: #00FF41;">500+ deployments</span>** with multi-tenancy, security hardening, observability
-- 🌐 **Multi-Cloud Strategy**: HashiCorp Tao of Workflows for seamless workload portability
-
-**<span style="color: #9D00FF;">Measurable Results:</span>** Eliminated 500+ VMs | 35% carbon footprint reduction | 70% faster provisioning | 100+ servers deployed | 1000+ security rules
-
-</div>
+**Measurable Results:** Eliminated 500+ VMs | 35% carbon footprint reduction | 70% faster provisioning | 1000+ security rules
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Security" width="30" /> Security & DevOps Excellence
 
-<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); padding: 15px; border-left: 4px solid #00D9FF; margin: 10px 0;">
+```javascript
+// Implementing Zero-Trust frameworks with HashiCorp Vault
+const securityExcellence = {
+  vault: {
+    automation: "100%",
+    features: ["Dynamic Secrets", "Rotation Policies", "PKI Management"]
+  },
+  compliance: {
+    score: "100%",
+    frameworks: ["CIS Benchmarks", "Policy Enforcement", "Audit Trails"]
+  },
+  cicd: {
+    improvement: "50% faster deployments",
+    tools: ["Jenkins", "GitHub Actions", "ArgoCD"]
+  },
+  monitoring: {
+    incidents: "Zero security breaches",
+    tools: ["CloudWatch", "DataDog", "Splunk"]
+  }
+};
+```
 
-**Implementing Zero-Trust frameworks with HashiCorp Vault & modern DevOps**
-
-- 🛡️ **Secrets Management**: **<span style="color: #00FF41;">100% automation</span>** of dynamic secrets, rotation policies, PKI with HashiCorp Vault
-- 📋 **Compliance as Code**: Automated CIS benchmarks, policy enforcement, **<span style="color: #00FF41;">100% compliance scores</span>**
-- 🔄 **CI/CD Pipelines**: **<span style="color: #00FF41;">50% faster deployments</span>** using Jenkins, GitHub Actions, ArgoCD
-- 🚨 **Threat Detection**: ML-based monitoring with CloudWatch, DataDog, Splunk - **<span style="color: #00FF41;">zero security incidents</span>**
-- 🔐 **Zero-Trust Architecture**: Identity-based access control, continuous compliance, real-time threat detection
-
-**<span style="color: #9D00FF;">Measurable Results:</span>** 100+ servers secured | 1000+ security rules | Zero breaches | Automated incident response
-
-</div>
+**Measurable Results:** 100+ servers secured | 1000+ security rules | Zero breaches | Automated incident response
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" /> Thought Leadership & Community
 
-<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); padding: 15px; border-left: 4px solid #FFD700; margin: 10px 0;">
+```yaml
+Academic Leadership:
+  - Board of Studies: MIT ADT University, MES Garware College
+  - Adjunct Professor: Sanjivani College of Engineering
 
-**Driving knowledge sharing and technical education globally**
+Global Speaking:
+  - Sessions: 30+ (AWS re:Invent, HashiConf, IIT Bombay)
+  - CSAT Score: 4.7/5
 
-- 📚 **Academic Leadership**: Board of Studies @ MIT ADT University, MES Garware College | Adjunct Professor @ Sanjivani College
-- 🎤 **Global Speaking**: **<span style="color: #00FF41;">30+ sessions</span>** at AWS re:Invent, HashiConf, HashiTalks India, IIT Bombay (**4.7/5 CSAT**)
-- ✍️ **Content Creation**: **8 AWS blogs** (25K reads) | **10 prescriptive guides** (74K reads) | **15+ code samples** | **24+ videos** (10K views)
-- 🤝 **Community Leadership**: 
-  - **HashiCorp Ambassador** (2024 & 2025) - 1 of 108 global ambassadors across 29 countries
-  - **AWS Ambassador** - Community leader driving cloud adoption
-  - **AWS Community Builder** - Serverless & Containers track
-- 👨‍🏫 **Mentorship Impact**: **<span style="color: #00FF41;">1000+ developers</span>** | **500+ students** trained through workshops and forums
+Content Creation:
+  - AWS Blogs: 8 (25K+ reads)
+  - Prescriptive Guides: 10 (74K+ reads)
+  - Code Samples: 15+
+  - YouTube Videos: 24+ (10K+ views)
 
-**<span style="color: #9D00FF;">Measurable Results:</span>** 15+ countries reached | 100+ blogs published | 100K+ total reads | Active community growth
+Community Leadership:
+  - HashiCorp Ambassador: 2024 & 2025 (1 of 108 globally)
+  - AWS Ambassador: Community Leader
+  - AWS Community Builder: Serverless & Containers
 
-</div>
+Mentorship:
+  - Developers Trained: 1000+
+  - Students Mentored: 500+
+```
+
+**Measurable Results:** 15+ countries reached | 100+ blogs | 100K+ reads | Active community growth
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Technical Skills
 
-<table style="background-color: #000000; border: 2px solid #00FF41;">
+<table>
 <tr>
-<td width="33%" valign="top" style="background-color: #000000; color: #FFFFFF; padding: 15px; border-right: 1px solid #00FF41;">
+<td width="33%" valign="top">
 
-### <span style="color: #00FF41;">☁️ Cloud & Infrastructure</span>
-- AWS, GCP
-- Terraform, Ansible, Puppet
-- Kubernetes, Docker, Helm
-- CloudFormation, Packer
-
-</td>
-<td width="33%" valign="top" style="background-color: #000000; color: #FFFFFF; padding: 15px; border-right: 1px solid #9D00FF;">
-
-### <span style="color: #9D00FF;">🤖 AI/ML & Data</span>
-- Python, TensorFlow, PyTorch
-- Generative AI, Agentic AI
-- MLOps, Model Deployment
-- Big Data, Hadoop, Kafka
+### ☁️ Cloud & Infrastructure
+```
+├── AWS, GCP
+├── Terraform, Ansible, Puppet
+├── Kubernetes, Docker, Helm
+└── CloudFormation, Packer
+```
 
 </td>
-<td width="33%" valign="top" style="background-color: #000000; color: #FFFFFF; padding: 15px;">
+<td width="33%" valign="top">
 
-### <span style="color: #00D9FF;">🔐 Security & DevOps</span>
-- HashiCorp Vault, Consul
-- Jenkins, GitHub Actions, ArgoCD
-- Prometheus, Grafana, DataDog
-- CloudWatch, Splunk, ELK
+### 🤖 AI/ML & Data
+```
+├── Python, TensorFlow, PyTorch
+├── Generative AI, Agentic AI
+├── MLOps, Model Deployment
+└── Big Data, Hadoop, Kafka
+```
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Security & DevOps
+```
+├── HashiCorp Vault, Consul
+├── Jenkins, GitHub Actions, ArgoCD
+├── Prometheus, Grafana, DataDog
+└── CloudWatch, Splunk, ELK
+```
 
 </td>
 </tr>
@@ -231,35 +282,35 @@
 
 <div align="center">
 
-<table style="background-color: #000000; border: 2px solid #00FF41;">
+<table>
 <tr>
-<td align="center" width="20%" style="background-color: #000000; color: #FFFFFF; padding: 10px;">
+<td align="center" width="20%">
 
-**<span style="color: #00FF41;">🌐 Website</span>**<br/>
+**🌐 Website**<br/>
 [dr-rahulgaikwad.com](https://dr-rahulgaikwad.com/)
 
 </td>
-<td align="center" width="20%" style="background-color: #000000; color: #FFFFFF; padding: 10px;">
+<td align="center" width="20%">
 
-**<span style="color: #9D00FF;">📝 Blog</span>**<br/>
+**📝 Blog**<br/>
 [blogs.dr-rahulgaikwad.com](https://blogs.dr-rahulgaikwad.com/)
 
 </td>
-<td align="center" width="20%" style="background-color: #000000; color: #FFFFFF; padding: 10px;">
+<td align="center" width="20%">
 
-**<span style="color: #00D9FF;">💼 LinkedIn</span>**<br/>
+**💼 LinkedIn**<br/>
 [Connect](https://www.linkedin.com/in/dr-rahul-gaikwad/)
 
 </td>
-<td align="center" width="20%" style="background-color: #000000; color: #FFFFFF; padding: 10px;">
+<td align="center" width="20%">
 
-**<span style="color: #FFD700;">📧 Email</span>**<br/>
+**📧 Email**<br/>
 rahulgaikwad1986@gmail.com
 
 </td>
-<td align="center" width="20%" style="background-color: #000000; color: #FFFFFF; padding: 10px;">
+<td align="center" width="20%">
 
-**<span style="color: #00FF41;">🎤 Speaking</span>**<br/>
+**🎤 Speaking**<br/>
 [Sessionize](https://sessionize.com/DrRahulGaikwad/)
 
 </td>
@@ -301,9 +352,9 @@ rahulgaikwad1986@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&text=Let's%20Build%20the%20Future%20with%20AI!&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=65" width="100%"/>
 
-### <span style="color: #00FF41;">💡 *"The best way to predict the future is to build it with AI"*</span>
+### 💡 *"The best way to predict the future is to build it with AI"*
 
-**<span style="color: #9D00FF;">Open to collaborations in AI/ML, Cloud Architecture, Generative AI, and DevSecOps</span>**
+**Open to collaborations in AI/ML, Cloud Architecture, Generative AI, and DevSecOps**
 
 ⭐ Star my repositories | 🤝 Connect on LinkedIn | 📧 Reach out: rahulgaikwad1986@gmail.com
 
@@ -313,7 +364,7 @@ rahulgaikwad1986@gmail.com
 
 ---
 
-<sub><span style="color: #00FF41;">💡 **Transforming IT operations through AI-powered intelligence**</span> - Dr. Rahul Gaikwad</sub>
+<sub>💡 **Transforming IT operations through AI-powered intelligence** - Dr. Rahul Gaikwad</sub>
 
 <br/>
 
