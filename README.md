@@ -31,7 +31,7 @@
 
 💼 **Current Role:** Staff Resident Solutions Architect @ **HashiCorp an IBM Company**
 
-🎯 Partnering with enterprise CxOs to accelerate cloud transformation using HashiCorp's product suite and Cloud Operating Model.
+🎯 Partnering with CxOs to accelerate cloud transformation journeys.
 
 🧑🏻‍💻 **Transformational Technology Leader** with 15+ years of experience in cloud and digital transformation.
 
