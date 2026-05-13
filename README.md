@@ -30,116 +30,165 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+**Transformational Technology Leader** with **15+ years** driving innovation across **Cloud, DevOps, AI/ML, and Generative AI**
 
-### Staff Resident Solutions Architect @ HashiCorp | PhD in AIOps | 15+ Years Experience
+**PhD in Artificial Intelligence for IT Operations (AIOps)** | Savitribai Phule Pune University  
+**MBA** (Project Management) | **MCA** (Computer Applications)  
+**40+ Technical Certifications**: 12x AWS | 3x HashiCorp | Confluent Kafka | Stanford ML
 
-</div>
+**Current Role:** Staff Resident Solutions Architect @ **HashiCorp**  
+Partnering with enterprise CxOs across APAC to accelerate cloud transformation using HashiCorp's product suite and Cloud Operating Model.
 
-I'm a transformational technology leader specializing in **AI-powered infrastructure** and **multi-cloud architecture**. With a PhD in AI for IT Operations from Savitribai Phule Pune University and 15+ years of hands-on experience, I bridge the gap between cutting-edge research and real-world enterprise solutions.
+---
 
-### 🎯 What Drives Me
-
-**Mission:** Transforming enterprise IT operations through intelligent automation, building self-healing infrastructure, and empowering the next generation of cloud engineers.
-
-**Current Focus:** Partnering with enterprise CxOs across APAC to accelerate cloud transformation journeys using HashiCorp's product suite, implementing Cloud Operating Models, and driving measurable business outcomes.
-
-### 🏆 Recognition & Awards
+## 🏆 Awards & Recognition
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🥇 Industry Recognition**
-- **2026** - AWS Golden Jacket Winner
-- **2025** - Top Icons of India
-- **2025** - Man of Excellence (AIBCF)
-- **2024 & 2025** - HashiCorp Ambassador
-- **2024** - Indian Achievers Award (IAF)
+**🥇 2024-2026 Achievements**
+- 🏅 **2026** - AWS Golden Jacket Winner
+- 🌟 **2025** - Top Icons of India
+- 👔 **2025** - Man of Excellence (AIBCF)
+- 🎖️ **2024 & 2025** - HashiCorp Ambassador
+- ☁️ **AWS Ambassador** - Community Leader
+- 🏗️ **AWS Community Builder** - Serverless & Containers
+- 🏆 **2024** - Indian Achievers Award (IAF)
+- 📚 **2024** - Best PhD Thesis (Prestige Award)
+- ✍️ **Author of the Month** - APG, AWS
 
 </td>
 <td width="50%" valign="top">
 
-**🎓 Academic Excellence**
-- **2024** - Best PhD Thesis (Prestige Award)
-- **2023** - Research Scholar of the Year
-- **2022** - Young Researcher Award (InSc)
-- **2019** - Best Scylla User Award
-- **8 Research Papers** | **2 Patents Filed**
+**🎓 2019-2023 Recognition**
+- 🔬 **2023** - Research Scholar of the Year (Global Asia Education)
+- 🏆 **2022** - Young Researcher Award (InSc)
+- ⭐ **2019** - Best Scylla User Award (Scylla Summit)
+
+**📖 Research Contributions**
+- **8 Published Research Papers**
+- **2 Patents Filed** (IT Alert Classification & Event Log Mining)
 
 </td>
 </tr>
 </table>
 
-### 📊 Impact at a Glance
+---
+
+## 📊 Impact Metrics
 
 <div align="center">
 
-| 🏢 Organizations | 👥 Developers | 🎤 Talks | 📝 Content | 💻 Open Source | 🎓 Certifications |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **50+** Transformed | **1000+** Mentored | **25+** Sessions | **100K+** Reads | **270+** Contributions | **35+** Earned |
+| Metric | Achievement | Details |
+|:------:|:-----------:|:--------|
+| 🏢 **Organizations** | **50+** | Enterprise cloud transformations delivered |
+| 👥 **Developers** | **1000+** | Professionals mentored & trained |
+| 🎤 **Speaking** | **30+** | Global conference sessions (4.7/5 CSAT) |
+| 📝 **Content** | **100K+** | Total blog reads across platforms |
+| 💻 **Open Source** | **270+** | GitHub contributions (140 stars, 40 forks) |
+| 🎓 **Certifications** | **40+** | Technical certifications earned |
+| 📖 **Publications** | **8+15** | Research papers + code samples |
+| 🎥 **Videos** | **10K+** | YouTube views (24+ videos) |
 
 </div>
 
 ---
 
-## 🚀 What I Do
-
-<div align="center">
-
-### 💡 *"Building intelligent systems that predict, prevent, and resolve IT incidents autonomously"*
-
-</div>
+## 🚀 Core Expertise
 
 ### 🤖 AI/ML & AIOps Engineering
 
-I design and implement **intelligent infrastructure systems** that leverage machine learning to transform IT operations:
+**Building intelligent, self-healing infrastructure systems**
 
-- **🧠 Self-Healing Systems** - Built AIOps platforms that automatically detect anomalies, predict failures, and remediate issues without human intervention, achieving **90% MTTR reduction**
-- **📊 Predictive Analytics** - Developed ML models for incident prediction and root cause analysis, preventing **1000+ incidents** across production environments
-- **🔬 Research to Production** - Published 8 research papers and 2 patents in IT system alert classification, translating academic research into enterprise-grade solutions
-- **🎯 MLOps Pipelines** - Architected end-to-end ML deployment workflows using TensorFlow, PyTorch, and Kubernetes for scalable model serving
+- **Self-Healing Platforms**: Achieved **90% MTTR reduction** through automated anomaly detection and remediation
+- **Generative AI Solutions**: Architected Agentic AI systems for intelligent incident response and predictive maintenance
+- **Predictive Analytics**: Prevented **1000+ production incidents** using ML-driven root cause analysis
+- **Research Impact**: **8 published papers**, **2 patents** in IT system alert classification
+- **MLOps Excellence**: End-to-end ML pipelines with TensorFlow, PyTorch, Kubernetes
 
-**Real Impact:** Reduced critical outages from 9 to 3 workloads, improved architecture resilience by 80%, and enabled 24/7 autonomous operations.
+**Measurable Results**: Reduced critical outages from 9 to 3 workloads | 80% architecture resilience improvement | 24/7 autonomous operations
 
 ---
 
 ### ☁️ Multi-Cloud Architecture & Infrastructure
 
-I architect **cloud-native solutions** that scale across AWS, Azure, and GCP:
+**Designing scalable cloud-native solutions across AWS and GCP**
 
-- **🏗️ Enterprise Transformations** - Led 50+ cloud migration and modernization initiatives, migrating critical workloads with **zero downtime** while enhancing system availability to **99.99%**
-- **💰 Cost Optimization** - Delivered strategic cost reduction strategies resulting in **30-40% savings** in AWS spend through efficient resource utilization and capacity planning
-- **🔧 Infrastructure as Code** - Developed production-ready Terraform modules and frameworks adopted by global users, reducing environment provisioning time by **60%**
-- **🐳 Kubernetes at Scale** - Deployed and managed enterprise Kubernetes clusters with **500+ deployments**, implementing multi-tenancy, security hardening, and observability stacks
+- **Enterprise Migrations**: **50+ successful transformations** with **zero downtime** and **99.99% uptime**
+- **Cost Optimization**: Delivered **30-40% cost savings** through FinOps practices and efficient resource utilization
+- **Infrastructure as Code**: Production-ready Terraform modules reducing provisioning time by **60%**
+- **Kubernetes at Scale**: **500+ deployments** with multi-tenancy, security hardening, observability
+- **Multi-Cloud Strategy**: HashiCorp Tao of Workflows for seamless workload portability
 
-**Real Impact:** Eliminated 500+ on-premise VMs, accelerated carbon footprint reduction by 35%, and achieved 70% faster resource provisioning.
+**Measurable Results**: Eliminated 500+ VMs | 35% carbon footprint reduction | 70% faster provisioning | 100+ servers deployed | 1000+ security rules
 
 ---
 
 ### 🔐 Security & DevOps Excellence
 
-I implement **Zero-Trust security frameworks** and DevOps best practices:
+**Implementing Zero-Trust frameworks with HashiCorp Vault & modern DevOps**
 
-- **🛡️ HashiCorp Vault Integration** - Architected secrets management solutions achieving **100% automation** of dynamic secrets, rotation policies, and encryption services
-- **📋 Compliance as Code** - Designed automated compliance frameworks with CIS benchmarks scanning, policy enforcement, and audit trail generation maintaining **100% compliance scores**
-- **🔄 CI/CD Automation** - Built end-to-end DevOps pipelines using Jenkins, GitHub Actions, and ArgoCD, reducing deployment times by **50%** and enabling continuous delivery
-- **🚨 Threat Detection** - Implemented ML-based security monitoring and automated incident response, achieving **zero security incidents** in production
+- **Secrets Management**: **100% automation** of dynamic secrets, rotation policies, PKI with HashiCorp Vault
+- **Compliance as Code**: Automated CIS benchmarks, policy enforcement, **100% compliance scores**
+- **CI/CD Pipelines**: **50% faster deployments** using Jenkins, GitHub Actions, ArgoCD
+- **Threat Detection**: ML-based monitoring with CloudWatch, DataDog, Splunk - **zero security incidents**
+- **Zero-Trust Architecture**: Identity-based access control, continuous compliance, real-time threat detection
 
-**Real Impact:** Strengthened security posture across 100+ servers, implemented 1000+ security rules, and enabled automated threat detection and response.
+**Measurable Results**: 100+ servers secured | 1000+ security rules | Zero breaches | Automated incident response
 
 ---
 
-### 🎓 Education & Community Leadership
+### 🎓 Thought Leadership & Community
 
-I'm passionate about **knowledge sharing** and **community building**:
+**Driving knowledge sharing and technical education globally**
 
-- **📚 Academic Roles** - Board of Studies member at MIT ADT University and MES Garware College, Adjunct Professor at Sanjivani College of Engineering
-- **🎤 Global Speaker** - Delivered 25+ technical sessions at AWS re:Invent, HashiConf, IIT Bombay with outstanding **4.7/5 CSAT score**
-- **✍️ Content Creator** - Authored 100+ technical blogs (100K+ reads), 10+ prescriptive guides (74K+ reads), and 24+ YouTube videos (10K+ views)
-- **🤝 Mentorship** - Mentored 1000+ developers and 500+ students through workshops, webinars, and community forums
+- **Academic Leadership**: Board of Studies @ MIT ADT University, MES Garware College | Adjunct Professor @ Sanjivani College
+- **Global Speaking**: **30+ sessions** at AWS re:Invent, HashiConf, HashiTalks India, IIT Bombay (**4.7/5 CSAT**)
+- **Content Creation**: **8 AWS blogs** (25K reads) | **10 prescriptive guides** (74K reads) | **15+ code samples** | **24+ videos** (10K views)
+- **Community Leadership**: 
+  - **HashiCorp Ambassador** (2024 & 2025) - 1 of 108 global ambassadors across 29 countries
+  - **AWS Ambassador** - Community leader driving cloud adoption
+  - **AWS Community Builder** - Serverless & Containers track
+- **Mentorship Impact**: **1000+ developers** | **500+ students** trained through workshops and forums
 
-**Real Impact:** Reached audiences across 15+ countries, fostered HashiCorp and AWS communities, and accelerated cloud adoption through education.
+**Measurable Results**: 15+ countries reached | 100+ blogs published | 100K+ total reads | Active community growth
+
+---
+
+## 💼 Technical Skills
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**☁️ Cloud & Infrastructure**
+- AWS, GCP
+- Terraform, Ansible, Puppet
+- Kubernetes, Docker, Helm
+- CloudFormation, Packer
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 AI/ML & Data**
+- Python, TensorFlow, PyTorch
+- Generative AI, Agentic AI
+- MLOps, Model Deployment
+- Big Data, Hadoop, Kafka
+
+</td>
+<td width="33%" valign="top">
+
+**🔐 Security & DevOps**
+- HashiCorp Vault, Consul
+- Jenkins, GitHub Actions, ArgoCD
+- Prometheus, Grafana, DataDog
+- CloudWatch, Splunk, ELK
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -158,7 +207,7 @@ I'm passionate about **knowledge sharing** and **community building**:
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -234,9 +283,9 @@ rahulgaikwad1986@gmail.com
 
 ### 💡 *"The best way to predict the future is to build it with AI"*
 
-**Open to collaborations in AI/ML, Cloud Architecture, and DevSecOps**
+**Open to collaborations in AI/ML, Cloud Architecture, Generative AI, and DevSecOps**
 
-⭐ Star my repositories | 🤝 Connect on LinkedIn | 📧 Reach out: rahulgaikwad1986@gmail.com
+⭐ Star my repositories | 🤝 Connect on LinkedIn 
 
 <br/>
 
