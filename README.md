@@ -29,19 +29,19 @@
 
 ## 👨‍💻 About Me
 
-💼 **Current Role:** Staff Resident Solutions Architect @ **HashiCorp an IBM Company**
+💼 **Current Role** Staff Resident Solutions Architect @ **HashiCorp an IBM Company**
 
-🎯 Partnering with CxOs to accelerate cloud transformation journeys.
+🎯 **Partnering with CxOs** to accelerate cloud transformation journeys.
 
 🧑🏻‍💻 **Transformational Technology Leader** with 15+ years of experience in cloud and digital transformation.
 
-🎯 **Technology Enthusiast:** Cloud | DevOps | AI/ML | Generative AI
+🎯 **Technology Enthusiast** Cloud | DevOps | AI/ML | Generative AI
 
 🎓 **PhD in Artificial Intelligence for IT Operations (AIOps)** | Savitribai Phule Pune University
 
 📚 **MBA** (Project Management) | **MCA** (Computer Applications)
 
-🏅 **40+ Technical Certifications:** 12x AWS | 3x HashiCorp | Confluent Kafka | Stanford ML
+🏅 **40+ Technical Certifications** 12x AWS | 3x HashiCorp | Confluent Kafka | Stanford ML
 
 <br/>
 
