@@ -31,11 +31,11 @@
 
 💼 **Current Role:** Staff Resident Solutions Architect @ **HashiCorp an IBM Company**
 
-🎯 Partnering with enterprise CxOs to accelerate cloud transformation using HashiCorp's product suite and Cloud Operating Model.
+🎯 Partnering with CxOs to accelerate cloud adoption and transformation.
 
 🧑🏻‍💻 **Transformational Technology Leader** with 15+ years of experience in cloud and digital transformation.
 
-🎯 **Technology Enthusiast:** Cloud | DevOps | AI/ML | Generative AI
+🎯 **Technology Enthusiast:**  AI/ML | Generative AI | Cloud | DevOps |
 
 🎓 **PhD in Artificial Intelligence for IT Operations (AIOps)** | Savitribai Phule Pune University
 
